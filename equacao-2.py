@@ -3,7 +3,7 @@ b= int(input("Digite a letra B da formula: "))
 c= int(input("Digite a letra C da formula: "))
 
 delta = b*2-4*a*c
-print ("O Valor de Delta é: ",delta)
+print ("O Valor de Delta é:",delta)
 
 bhaskara_positivo= -b + delta / 2*a
 bhaskara_negativo= -b - delta / 2*a

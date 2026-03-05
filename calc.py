@@ -1,5 +1,5 @@
 print("----Welcome to Ithalo's calculator----")
-print("Press 1 to add \nPress 2 to decrease \nPress 3 to multiplicate \nPress 4 to divide")
+print("Press 1 to add; \nPress 2 to decrease; \nPress 3 to multiplicat; \nPress 4 to divide;")
 menu =(int(input(("Choice the operation:"))))
 operation1= 0
 operation2 = 0 
